@@ -1,0 +1,17 @@
+{
+  "name": "social_media_app",
+  "version": "1.0.0",
+  "description": "Web site for social media application",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "lilia jemai",
+  "license": "ISC",
+  "dependencies": {
+    "dotenv": "^16.5.0",
+    "express": "^5.1.0",
+    "mongoose": "^8.16.0",
+    "social_media_app": "file:"
+  }
+}
